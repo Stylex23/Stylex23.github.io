@@ -1,7 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ethan Gaytan – ePortfolio</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+  <header>
+    <h1>Welcome to My ePortfolio</h1>
+    <p>By Ethan Gaytan</p>
+    <nav>
+      <a href="video.html">Code Review Video</a> |
+      <a href="artifacts.html">Artifacts</a> |
+      <a href="narratives.html">Enhancement Narratives</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Professional Self-Assessment</h2>
+    <p>
+      I am a dedicated and detail-oriented computer science student with a strong foundation in software development, algorithms, and database systems. This ePortfolio showcases artifacts that reflect my progression and mastery of industry-relevant skills such as unit testing, data handling with MongoDB, and real-time application logic. Through rigorous enhancements, I’ve applied course outcomes to real-world simulations, demonstrating readiness for a software engineering career.
+    </p>
+  </main>
+
+  <footer>
+    <p>© 2025 Ethan Gaytan</p>
+  </footer>
 </body>
 </html>
